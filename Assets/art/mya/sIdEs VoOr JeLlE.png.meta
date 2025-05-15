@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: becff4aa3a6c8044694edca36475a7db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -229156179231083480
+    second: sIdEs VoOr JeLlE_0
+  - first:
+      213: 8487897903312967383
+    second: sIdEs VoOr JeLlE_1
+  - first:
+      213: 2819914129852925882
+    second: sIdEs VoOr JeLlE_2
+  - first:
+      213: -3254502831913737095
+    second: sIdEs VoOr JeLlE_3
+  - first:
+      213: 3860457804790689676
+    second: sIdEs VoOr JeLlE_4
+  - first:
+      213: -3476380295090966257
+    second: sIdEs VoOr JeLlE_5
+  - first:
+      213: -1557777726479827079
+    second: sIdEs VoOr JeLlE_6
+  - first:
+      213: -3833041089702368197
+    second: sIdEs VoOr JeLlE_7
+  - first:
+      213: 812137129207864681
+    second: sIdEs VoOr JeLlE_8
+  - first:
+      213: 6553834620053432992
+    second: sIdEs VoOr JeLlE_9
+  - first:
+      213: -2892413377610589692
+    second: sIdEs VoOr JeLlE_10
+  - first:
+      213: -1356595641651031166
+    second: sIdEs VoOr JeLlE_11
+  - first:
+      213: -7210270584886588649
+    second: sIdEs VoOr JeLlE_12
+  - first:
+      213: -5078078818045275321
+    second: sIdEs VoOr JeLlE_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 141
+        width: 556
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b732fa50ef5137b4697e9f0c0f18c210
+      internalID: -229156179231083480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_1
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 130
+        width: 428
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595de7ea4faaee5409e8bcebc5b31c38
+      internalID: 8487897903312967383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_2
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 130
+        width: 373
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e4edb04a570148b34f06ceb007d4b
+      internalID: 2819914129852925882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_3
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 130
+        width: 362
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f0f883ab0214943872b9c1aa23c9d8
+      internalID: -3254502831913737095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_4
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 130
+        width: 531
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d673c5c9f9c71c0489e3c0de3597c999
+      internalID: 3860457804790689676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_5
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 202
+        width: 643
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3635586199567a4da718e21d87af2ce
+      internalID: -3476380295090966257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_6
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 120
+        width: 545
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6937bf4ca94644b4d839c58876ec094f
+      internalID: -1557777726479827079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_7
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 141
+        width: 558
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d472cee2a39740b761664b9574320
+      internalID: -3833041089702368197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_8
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 136
+        width: 454
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e440ce51132106f4898bf89e892011a8
+      internalID: 812137129207864681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_9
+      rect:
+        serializedVersion: 2
+        x: 7481
+        y: 138
+        width: 418
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec00fcfc5bcfc542a42178dc76c8a54
+      internalID: 6553834620053432992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_10
+      rect:
+        serializedVersion: 2
+        x: 8239
+        y: 130
+        width: 421
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029c3e51108a814bb543cdef24dad4d
+      internalID: -2892413377610589692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_11
+      rect:
+        serializedVersion: 2
+        x: 8838
+        y: 202
+        width: 659
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d980bdf1ba87ef9468cbec5143acc7b0
+      internalID: -1356595641651031166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_12
+      rect:
+        serializedVersion: 2
+        x: 9727
+        y: 135
+        width: 558
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca62c266c5af744eae3d5f9272532e0
+      internalID: -7210270584886588649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sIdEs VoOr JeLlE_13
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 105
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c8eeabaebfb3c4a97b657355741e5a
+      internalID: -5078078818045275321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

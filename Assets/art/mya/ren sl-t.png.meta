@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 00237914d81574f41acc776a27bf33f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8426230707237711534
+    second: ren sl-t_0
+  - first:
+      213: -8554608714036298578
+    second: ren sl-t_1
+  - first:
+      213: -3796480625819802503
+    second: ren sl-t_2
+  - first:
+      213: 5352074117761191895
+    second: ren sl-t_3
+  - first:
+      213: -3612424411363666831
+    second: ren sl-t_4
+  - first:
+      213: -6745080079026541385
+    second: ren sl-t_5
+  - first:
+      213: -6979141725262240689
+    second: ren sl-t_6
+  - first:
+      213: 621165392064212572
+    second: ren sl-t_7
+  - first:
+      213: -4948324217936450996
+    second: ren sl-t_8
+  - first:
+      213: -3583923459430215850
+    second: ren sl-t_9
+  - first:
+      213: 913830844434276723
+    second: ren sl-t_10
+  - first:
+      213: 5263411330069766357
+    second: ren sl-t_11
+  - first:
+      213: 3111902280392953577
+    second: ren sl-t_12
+  - first:
+      213: 8821523409118812813
+    second: ren sl-t_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ren sl-t_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 554
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9ffc6fac93dae42ae36ee7801afcb7
+      internalID: 8426230707237711534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 48
+        width: 427
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b592361788e8c40bdfdccfe2213359
+      internalID: -8554608714036298578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_2
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 29
+        width: 369
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ed63d08877fc47b7da0cd85602921
+      internalID: -3796480625819802503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_3
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 37
+        width: 358
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b2e106cffecea49a5ff28484ed6edc
+      internalID: 5352074117761191895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_4
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 21
+        width: 527
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dd8f1fd2b260e479b6e72e101cfd7f
+      internalID: -3612424411363666831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_5
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 44
+        width: 638
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea6d9bc12e26584a8a5a0c40ac4c020
+      internalID: -6745080079026541385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_6
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 29
+        width: 541
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a94ee321f1205b4eabe9a97eb58ce7b
+      internalID: -6979141725262240689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_7
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 48
+        width: 599
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca7680567d7dcd468c8a00d01983dfe
+      internalID: 621165392064212572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_8
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 44
+        width: 417
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138a2c00df6220541b9f7b2fe7447212
+      internalID: -4948324217936450996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_9
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 40
+        width: 419
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f793d90332e8b5a4585e76c9259c74c5
+      internalID: -3583923459430215850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_10
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 29
+        width: 426
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f02d1d25f02749a1252973c07c6d0
+      internalID: 913830844434276723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_11
+      rect:
+        serializedVersion: 2
+        x: 6577
+        y: 41
+        width: 650
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa2c191ab368e0428f3cfd0962e2782
+      internalID: 5263411330069766357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_12
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 33
+        width: 554
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d4649a635fcbc4c8f8fe892d964d71
+      internalID: 3111902280392953577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ren sl-t_13
+      rect:
+        serializedVersion: 2
+        x: 4824
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03fcd6e2649ce846a07504556bed2b4
+      internalID: 8821523409118812813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
